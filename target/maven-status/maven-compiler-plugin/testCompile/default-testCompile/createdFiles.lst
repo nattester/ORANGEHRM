@@ -1,0 +1,10 @@
+pageFactory\HomePageFactory.class
+practice\MavenLifeCycle.class
+utils\SeleniumHelper.class
+practice\HookPractice2.class
+utils\AssertPractice.class
+pageFactory\DashboardPageFactory.class
+testRun\DriverManager.class
+practice\HookPractice.class
+testRun\PracticeTest.class
+utils\DriverManager.class
